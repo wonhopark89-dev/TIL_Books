@@ -11,5 +11,5 @@
 
 > :mag_right: **궁금한 내용이 있거나, 잘 이해되지 않는 내용이 있다면 적어보세요.**
  - 음
- - [링크](./README.md)
+ - [링크](CleanCode/README.md)
  
